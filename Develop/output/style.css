@@ -1,0 +1,17 @@
+
+.card-header {
+    background-color: #1ac6ff;
+}
+
+.card {
+    box-shadow: 5px 10px lightgray;
+}
+
+html, body {
+    padding: 20px;
+    margin: 20px;
+}
+
+html, body, .wrapper {
+        height: 100%;
+    }
